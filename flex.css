@@ -1,0 +1,12 @@
+nav{
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+div{
+    padding: 30px;
+    text-align: center;
+}
